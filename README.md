@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since my first "Hello, World!" program.<br>📚 I'm currently learning more about game engines like Unity<br>🎯 Goals: To develop my own indie game.<br></p>
+<p align="left">✨ Creating bugs since my first "Hello, World!!" program.<br>📚 I'm currently learning more about game engines like Unity<br>🎯 Goals: To develop my own indie game.<br></p>
 
 ###
 
