@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋</h1>
 
 ###
 
-<p align="left">My name is Helena! I'm a Computer Engineering student at UFMA. Interested about game development. Learning and growing.</p>
+<p align="left">I'm a Computer Engineering student at UFMA. Interested about game development. Learning and growing.</p>
 
 ###
 
